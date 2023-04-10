@@ -1,2 +1,2 @@
 # my-personal-site
-This is my first personal website.
+This is my first personal website. Index.html is the home page, about.html is the about me page, portofolio.html is the portfolio page, style.css is the stylesheet for the whole website, and javascript.js is for the hidden in the console hello world function.
